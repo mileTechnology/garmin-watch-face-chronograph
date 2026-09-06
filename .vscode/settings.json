@@ -1,0 +1,6 @@
+{
+    "monkeyC.sdkPath": "/home/mile/.Garmin/ConnectIQ/Sdks/connectiq-sdk-lin-9.2.0-2026-06-09-92a1605b2",
+    "monkeyC.developerKeyPath": "/home/mile/.Garmin/developer_key.der",
+    "monkeyC.typeCheckLevel": "Strict",
+    "monkeyC.compilerWarnings": true
+}

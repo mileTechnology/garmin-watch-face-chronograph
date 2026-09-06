@@ -1,0 +1,9 @@
+# Compiled output
+bin/
+
+# SDK Manager (not part of the project source)
+connectiq-sdk-manager-linux/
+connectiq-sdk-manager-linux.zip
+
+# Claude Code
+.claude/

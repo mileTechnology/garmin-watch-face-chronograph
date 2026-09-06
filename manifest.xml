@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="1">
+    <iq:application
+        entry="WatchFaceApp"
+        id="5cf2af32-d51f-4b77-80b0-1c7725c4921b"
+        launcherIcon="@Drawables.LauncherIcon"
+        minSdkVersion="4.0.0"
+        name="@Strings.AppName"
+        type="watchface"
+        version="1.0.0">
+        <iq:products>
+            <iq:product id="fenix847mm"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+    </iq:application>
+</iq:manifest>
